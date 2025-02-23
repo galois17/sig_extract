@@ -123,4 +123,5 @@ __pypackages__/
 dataset/*
 
 tmp/
+src/**/*.png
 
