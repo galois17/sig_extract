@@ -1,4 +1,6 @@
-TIF files for multiband signals can be tranformed via various indices (such as NDVI) to reveal vegetation, boulders, sand and water bodies. 
+## Overview
+
+Multiband TIF files contain data from multiple spectral bands. By applying specific mathematical combinations of these bands, known as (spectral)indices, we can enhance and extract information about specific features on the Earth's surface.  This approach is widely used in remote sensing.
 
 ```
 python -m main.main ../dataset/test/tif/small_block.tif
